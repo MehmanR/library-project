@@ -1,8 +1,3 @@
-import config.EntityManage;
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.EntityTransaction;
-import jakarta.persistence.Persistence;
 import model.Author;
 import model.Book;
 import model.Library;
